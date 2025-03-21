@@ -1,4 +1,5 @@
-{
+{    "auth_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQyNTkyMTM2LCJpYXQiOjE3NDI1OTE4MzYsImp0aSI6IjdkODJkNDBiOTNiNjQ1OWM5OTdiMGY4ZDhhMWUyOWMyIiwidXNlcl9pZCI6MX0.VQhbk3xIEOS2jnzwBApw_aSEl2lxS8RfPYCrSpdv0bs",
+
   "employees": [
     {
       "firstname": "MvlP5dWC",
@@ -26,6 +27,13 @@
       "firstname": "Khaled",
       "lastname": "Ahmad",
       "age": 25,
+      "salary": 800
+    },
+    {
+      "id": "a57f",
+      "firstname": "Akram",
+      "lastname": "Ahmad",
+      "age": 22,
       "salary": 800
     }
   ]
